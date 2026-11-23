@@ -1,1 +1,3 @@
-# python-E_2_E
+**python topics**
+- 'basic python'
+- 'advanced python'
